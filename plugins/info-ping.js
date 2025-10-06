@@ -1,18 +1,26 @@
 import speed from 'performance-now'
-import { spawn, exec, execSync } from 'child_process'
+import { exec} from 'child_process'
 
-let handler = async (m, { conn }) => {
-let timestamp = speed()
-let sentMsg = await conn.reply(m.chat, '❀ Calculando ping...', m)
-let latency = speed() - timestamp
-exec(`neofetch --stdout`, (error, stdout, stderr) => {
-let child = stdout.toString("utf-8");
-let ssd = child.replace(/Memory:/, "Ram:")
+let handler = async (m, { conn}) => {
+  const start = speed()
+  const sentMsg = await conn.reply(m.chat, '❀ Calculando ping...', m)
+  const latency = speed() - start
 
-let result = `✦ *¡Pong!*\n> Tiempo ⴵ ${latency.toFixed(4).split(".")[0]}ms\n${ssd}`
-conn.sendMessage(m.chat, { text: result, edit: sentMsg.key }, { quoted: m })
+  exec('neofetch --stdout', (error, stdout) => {
+    if (error) {
+      return conn.sendMessage(m.chat, {
+        text: `✰ *¡Pong!*\n> Tiempo ⴵ ${latency.toFixed(0)}ms\n❌ Error al obtener información del sistema.`,
+        edit: sentMsg.key
+}, { quoted: m})
+}
+
+    const info = stdout.toString('utf-8').replace(/Memory:/, 'Ram:')
+    const result = `✰ *¡Pong!*\n> Tiempo ⴵ ${latency.toFixed(0)}ms\n${info}`
+
+    conn.sendMessage(m.chat, { text: result, edit: sentMsg.key}, { quoted: m})
 })
 }
+
 handler.help = ['ping']
 handler.tags = ['info']
 handler.command = ['ping', 'p']
