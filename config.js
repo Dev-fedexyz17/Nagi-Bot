@@ -45,14 +45,14 @@ global.nagiJadibts = true
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-global.moneda = 'Coins'
+global.moneda = 'NagiCoins'
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 global.gp1 = 'https://chat.whatsapp.com/JbQKmggakgv5ogwyNrKoEV?mode=ems_copy_t';
 global.channel = 'https://whatsapp.com/channel/0029Vb6BDQc0lwgsDN1GJ31i';
-global.creador = 'wa.me/50231458537'
-global.correo = 'brayanfree881@gmail.com ';
+global.creador = 'wa.me/5491156178758'
+global.correo = 'fedelanyt20@gmail.com';
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
