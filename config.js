@@ -39,7 +39,7 @@ global.vs = '2.2.0'
 global.vsJB = '5.0'
 global.nameqr = 'Nagibot'
 global.namebot = 'Nagi Bot'
-global.sessions = 'ItachiSessions'
+global.sessions = 'NagiSessions'
 global.jadi = 'jadibts' 
 global.nagiJadibts = true
 
