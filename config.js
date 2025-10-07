@@ -48,8 +48,8 @@ global.moneda = 'NagiCoins'
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-global.gp1 = 'https://chat.whatsapp.com/JbQKmggakgv5ogwyNrKoEV?mode=ems_copy_t';
-global.channel = 'https://whatsapp.com/channel/0029Vb6BDQc0lwgsDN1GJ31i';
+global.gp1 = 'https://chat.whatsapp.com/DvD63iVO8qDLWdoPl3AsyG?mode=ems_copy_t';
+global.channel = 'https://whatsapp.com/channel/0029VbApe6jG8l5Nv43dsC2N';
 global.creador = 'wa.me/5491156178758'
 global.correo = 'fedelanyt20@gmail.com';
 
