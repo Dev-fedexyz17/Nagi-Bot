@@ -32,26 +32,6 @@ Este bot es un **desarrollo independiente** sin relación oficial con la compañ
 
 ---
 
-<details>
-<summary><strong>📌 Descripción del proyecto</strong></summary>
-
-**Nagi-Bot** es un bot multifuncional para WhatsApp basado en `Baileys`.
-Su objetivo es mejorar la experiencia del usuario con herramientas útiles, automatización y entretenimiento.
-
-#### ✨ Características principales:
-- Configuración avanzada de grupos
-- Mensajes de bienvenida personalizados
-- Herramientas utilitarias
-- Juegos RPG (Gacha y economía)
-- Funciones con Inteligencia Artificial
-- Descargas y búsquedas multi-plataforma
-- Sub-Bots (JadiBot)
-- Extensiones adicionales
-
-</details>
-
----
-
 *ꕥ Propietario*
 
 <p align="center">
