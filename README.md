@@ -11,7 +11,7 @@
 
 ## 𝑴𝒐𝒐𝒏𝒇𝒓𝒂𝒓𝒆 𝑻𝒆𝒂𝒎
 
-> 🌙 **links oficiales de Kaoruko** 
+> 🌙 **links oficiales de Nagi** 
 
 
 ### ꕥ **Enlaces!**
