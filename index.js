@@ -171,7 +171,7 @@ console.log(chalk.bold.white(chalk.bgMagenta(`[ ✨️ ]  Código:`)), chalk.bol
 }}}}
 conn.isInit = false
 conn.well = false
-conn.logger.info(`[ ✨️ ]  H E C H O\n`)
+conn.logger.info(`[ ⚽ ]  H E C H O\n`)
 if (!opts['test']) {
 if (global.db) setInterval(async () => {
 if (global.db.data) await global.db.write()
