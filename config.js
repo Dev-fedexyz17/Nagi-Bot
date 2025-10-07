@@ -7,6 +7,10 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 import moment from 'moment-timezone' 
 
+//═══════════════════════════════════════════════//
+//                  CONFIGURACIÓN GLOBAL                 //
+//═══════════════════════════════════════════════//
+
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
  
 global.owner = [
