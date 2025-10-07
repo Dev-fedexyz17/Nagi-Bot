@@ -28,10 +28,10 @@ global.prems = ['5491156178758', '5491137612743']
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 global.packname = '𝑵𝒂𝒈𝒊-𝑩𝒐𝒕𝑽𝟏: 𝑫𝒆𝒗-𝒇𝒆𝒅𝒆𝒙𝒚𝒛'
-global.botname = '𝖭𝖺𝗀𝗂𝖡𝗈𝗍-𝖠𝖨'
-global.textbot = 'N A G I - A I'
+global.botname = 'NᴀɢɪBᴏᴛV𝟷'
+global.textbot = 'N A G I - A I ⚽'
 global.author = '𝑁𝑎𝑔𝑖-𝐵𝑜𝑡𝑉𝟷 𝐵𝑦 𝐷𝑒𝑣-𝑓𝑒𝑑𝑒𝑥𝑦𝑧'
-global.dev = 'NᴀɢɪBᴏᴛV𝟷: Dᴇᴠ-ꜰᴇᴅᴇxʏᴢ'
+global.dev = '© Pᴏᴡᴇʀᴇᴅ Bʏ Dᴇᴠ-ꜰᴇᴅᴇxʏᴢ'
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
