@@ -1,9 +1,9 @@
 ## ꕥ **𝑽𝒆𝒓𝒔𝒊𝒐𝒏: 𝟐.𝟐.𝟎**
 
-<h1 align="center">➪ 𝑲𝒂𝒐𝒓𝒖𝒌𝒐 - 𝑩𝒐𝒕 𝑾𝒂𝑩𝒐𝒕 ꕥ</h1>
+<h1 align="center">➪ NᴀɢɪBᴏᴛV𝟷 ꕥ</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/gm249p.jpg" alt="Kaoruko Banner" width="300%">
+  <img src="https://cdn.yupra.my.id/yp/962jca9m.jpg" alt="Kaoruko Banner" width="300%">
 </p>
 
 --- 
@@ -35,7 +35,7 @@ Este bot es un **desarrollo independiente** sin relación oficial con la compañ
 <details>
 <summary><strong>📌 Descripción del proyecto</strong></summary>
 
-**Kaoruko Bot** es un bot multifuncional para WhatsApp basado en `Baileys`.
+**Nagi-Bot** es un bot multifuncional para WhatsApp basado en `Baileys`.
 Su objetivo es mejorar la experiencia del usuario con herramientas útiles, automatización y entretenimiento.
 
 #### ✨ Características principales:
