@@ -3,7 +3,7 @@
 <h1 align="center">➪ NᴀɢɪBᴏᴛV𝟷 ꕥ</h1>
 
 <p align="center">
-  <img src="https://cdn.yupra.my.id/yp/ykhrquj7.jpg" alt="Kaoruko Banner" width="300%">
+  <img src="https://cdn.yupra.my.id/yp/dpi4ktu8.jpg" alt="Kaoruko Banner" width="300%">
 </p>
 
 --- 
