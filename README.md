@@ -32,7 +32,7 @@ Este bot es un **desarrollo independiente** sin relación oficial con la compañ
 
 ---
 
-*ꕥ Propietario*
+**👑 Propietario**
 
 <p align="center">
   <a href="https://github.com/Dev-fedexyz17">
